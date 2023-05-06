@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\layout_activity_selectto_cart.xml.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\layout\\activity_selectto_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\layout_activity_update_cart.xml.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\layout\\activity_update_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/layout_activity_addto_cart.xml.flat",
+        "source": "com.example.slcraft.app-main-33:/layout/activity_addto_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\drawable_coconutshellcup.jpg.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\drawable\\coconutshellcup.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\drawable_unselectedpeople.xml.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\drawable\\unselectedpeople.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\drawable_cartcheckout.xml.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\drawable\\cartcheckout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\drawable_selectedcart.xml.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\drawable\\selectedcart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\drawable_unselectedhome.xml.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\drawable\\unselectedhome.xml"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/layout_activity_selectto_cart.xml.flat",
+        "source": "com.example.slcraft.app-main-33:/layout/activity_selectto_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\layout_activity_addto_cart.xml.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\layout\\activity_addto_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Chamod\\.gradle\\daemon\\8.0\\com.example.slcraft.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    }
+]

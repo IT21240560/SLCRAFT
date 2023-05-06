@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">279864965938-jdksmm6vkhnlv3g8fcjtcje3bkodckee.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">279864965938</string>
+    <string name="google_api_key" translatable="false">AIzaSyBC9hO7wbaZLDH-G2JOAUpijbbEdznIgd0</string>
+    <string name="google_app_id" translatable="false">1:279864965938:android:dc3d39833faf006fc5f52b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBC9hO7wbaZLDH-G2JOAUpijbbEdznIgd0</string>
+    <string name="google_storage_bucket" translatable="false">madslhandcraft.appspot.com</string>
+    <string name="project_id" translatable="false">madslhandcraft</string>
+</resources>

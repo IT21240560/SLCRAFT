@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/layout_activity_update_product.xml.flat",
+        "source": "com.example.slcraft.app-main-33:/layout/activity_update_product.xml"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.slcraft.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/drawable_selectedproduct.xml.flat",
+        "source": "com.example.slcraft.app-main-33:/drawable/selectedproduct.xml"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.slcraft.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.slcraft.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/drawable_inventory.jpeg.flat",
+        "source": "com.example.slcraft.app-main-33:/drawable/inventory.jpeg"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/layout_activity_select_product.xml.flat",
+        "source": "com.example.slcraft.app-main-33:/layout/activity_select_product.xml"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/drawable_unselectedhome.xml.flat",
+        "source": "com.example.slcraft.app-main-33:/drawable/unselectedhome.xml"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.slcraft.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/layout_activity_add_product.xml.flat",
+        "source": "com.example.slcraft.app-main-33:/layout/activity_add_product.xml"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.slcraft.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.slcraft.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.slcraft.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.slcraft.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/drawable_coconutshellcup.jpg.flat",
+        "source": "com.example.slcraft.app-main-33:/drawable/coconutshellcup.jpg"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/drawable_necklas.jpg.flat",
+        "source": "com.example.slcraft.app-main-33:/drawable/necklas.jpg"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.slcraft.app-main-33:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/drawable_cartcheckout.xml.flat",
+        "source": "com.example.slcraft.app-main-33:/drawable/cartcheckout.xml"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.slcraft.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/drawable_unselectedpeople.xml.flat",
+        "source": "com.example.slcraft.app-main-33:/drawable/unselectedpeople.xml"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.slcraft.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.slcraft.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.slcraft.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.slcraft.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/drawable_earring.jpg.flat",
+        "source": "com.example.slcraft.app-main-33:/drawable/earring.jpg"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/drawable_cpot.jpg.flat",
+        "source": "com.example.slcraft.app-main-33:/drawable/cpot.jpg"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.slcraft.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.slcraft.app-main-33:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/drawable_necklas2.jpg.flat",
+        "source": "com.example.slcraft.app-main-33:/drawable/necklas2.jpg"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/drawable_cshell.jpg.flat",
+        "source": "com.example.slcraft.app-main-33:/drawable/cshell.jpg"
+    },
+    {
+        "merged": "com.example.slcraft.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.slcraft.app-main-33:/xml/backup_rules.xml"
+    }
+]
